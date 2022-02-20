@@ -2,11 +2,11 @@
 
 Clone repo
 
-`git clone https://github.com/prolaxu/appcore.git`
+`git clone https://github.com/prolaxu/Shipping-and-Logistics-System-core-php-`
 
 ### Connect Database
 
-Currently Appcore only supports mysql.
+Currently App only supports mysql.
 
 Update your database info.
 
