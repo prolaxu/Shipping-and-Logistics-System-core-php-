@@ -4,7 +4,7 @@
 Clone repo
 
 `git clone https://github.com/prolaxu/Shipping-and-Logistics-System-core-php-`
-create new database  and export sql file inside db/database.sql
+create new database  and export sql file inside db-backup/database.sql
 
 
 ### Connect Database
